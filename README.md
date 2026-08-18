@@ -181,14 +181,7 @@ Exploring Computer Vision and object detection using deep learning models such a
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="YOUR_GITHUB_URL">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<p align="left"> <a href="https://www.linkedin.com/in/saif-alaswad-b67631331"> <img src="https://img.shields.io/badge/LinkedIn-Saif%20Ahmed-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/> </a> </p>
 
 ---
 
