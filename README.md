@@ -25,7 +25,15 @@ I enjoy turning data into practical AI solutions and continuously learning new t
 
 ### Programming Languages
 
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java" />
+</p>
+
 ### AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
 
 * Machine Learning
 * Deep Learning
@@ -38,6 +46,10 @@ I enjoy turning data into practical AI solutions and continuously learning new t
 
 ### Python Libraries
 
+<p>
+<img src="https://skillicons.dev/icons?i=sklearn" />
+</p>
+
 * NumPy
 * Pandas
 * Matplotlib
@@ -49,6 +61,10 @@ I enjoy turning data into practical AI solutions and continuously learning new t
 * NLTK
 
 ### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
+</p>
 
 * Git & GitHub
 * VS Code
@@ -86,7 +102,6 @@ Artificial Intelligence
                ├── RAG
                ├── LLM Applications
                └── AI Agents
-
 ```
 
 ---
@@ -140,23 +155,40 @@ Exploring Computer Vision and object detection using deep learning models such a
 * 🎓 NTI – Machine Learning
 * 🎓 NTI – Python
 * 🎓 NVIDIA – Deep Learning
-* 🎓 NVIDIA – Generative AI
-* 🎓 IEEE – Data Science
+* 🎓 IEEE – Computer Vision Sessions
 
 ---
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
 ---
 
 ## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-* 💻 **GitHub:** https://github.com/saifalaswad43
-* 💼 **LinkedIn:** https://www.linkedin.com/in/saif-alaswad-b67631331
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR_GITHUB_URL">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
