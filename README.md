@@ -23,17 +23,13 @@ I enjoy turning data into practical AI solutions and continuously learning new t
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java" />
-</p>
+* Python
+* C++
+* Java
 
-### AI & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
+### 🤖 AI & Machine Learning
 
 * Machine Learning
 * Deep Learning
@@ -44,11 +40,7 @@ I enjoy turning data into practical AI solutions and continuously learning new t
 * Embeddings
 * Model Evaluation
 
-### Python Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=sklearn" />
-</p>
+### 🐍 Python Libraries
 
 * NumPy
 * Pandas
@@ -59,12 +51,9 @@ I enjoy turning data into practical AI solutions and continuously learning new t
 * CatBoost
 * LightGBM
 * NLTK
+* TensorFlow
 
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
-</p>
+### 🔧 Tools & Platforms
 
 * Git & GitHub
 * VS Code
@@ -148,25 +137,22 @@ Exploring Computer Vision and object detection using deep learning models such a
 
 ---
 
-## 📚 Certifications & Learning
+## 📚 Certifications & Training
 
 * 🎓 ITI – Generative AI
 * 🎓 ITI – Deep Learning
 * 🎓 NTI – Machine Learning
 * 🎓 NTI – Python
+* 🎓 NVIDIA – Generative AI
 * 🎓 NVIDIA – Deep Learning
-* 🎓 IEEE – Computer Vision Sessions
+* 🎓 IEEE – Data Science
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Saif's GitHub Stats" />
 </p>
 
 ---
@@ -174,7 +160,7 @@ Exploring Computer Vision and object detection using deep learning models such a
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ---
@@ -182,11 +168,8 @@ Exploring Computer Vision and object detection using deep learning models such a
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="YOUR_GITHUB_URL">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/saif-alaswad-b67631331">
+    <img src="https://img.shields.io/badge/LinkedIn-Saif%20Ahmed-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -201,3 +184,4 @@ Exploring Computer Vision and object detection using deep learning models such a
 ### ⭐ Thanks for visiting my profile!
 
 Feel free to explore my repositories and connect with me.
+
